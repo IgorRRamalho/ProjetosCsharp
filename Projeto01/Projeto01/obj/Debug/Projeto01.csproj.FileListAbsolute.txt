@@ -1,0 +1,7 @@
+C:\GitHub\ProjetosCsharp\Projeto01\Projeto01\bin\Debug\Projeto01.exe.config
+C:\GitHub\ProjetosCsharp\Projeto01\Projeto01\bin\Debug\Projeto01.exe
+C:\GitHub\ProjetosCsharp\Projeto01\Projeto01\bin\Debug\Projeto01.pdb
+C:\GitHub\ProjetosCsharp\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.AssemblyReference.cache
+C:\GitHub\ProjetosCsharp\Projeto01\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetosCsharp\Projeto01\Projeto01\obj\Debug\Projeto01.exe
+C:\GitHub\ProjetosCsharp\Projeto01\Projeto01\obj\Debug\Projeto01.pdb
