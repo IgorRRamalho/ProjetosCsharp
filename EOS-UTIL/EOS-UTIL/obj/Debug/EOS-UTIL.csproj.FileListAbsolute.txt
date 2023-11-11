@@ -1,0 +1,7 @@
+C:\GitHub\ProjetosCsharp\EOS-UTIL\EOS-UTIL\bin\Debug\EOS-UTIL.exe.config
+C:\GitHub\ProjetosCsharp\EOS-UTIL\EOS-UTIL\bin\Debug\EOS-UTIL.exe
+C:\GitHub\ProjetosCsharp\EOS-UTIL\EOS-UTIL\bin\Debug\EOS-UTIL.pdb
+C:\GitHub\ProjetosCsharp\EOS-UTIL\EOS-UTIL\obj\Debug\EOS-UTIL.csproj.AssemblyReference.cache
+C:\GitHub\ProjetosCsharp\EOS-UTIL\EOS-UTIL\obj\Debug\EOS-UTIL.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetosCsharp\EOS-UTIL\EOS-UTIL\obj\Debug\EOS-UTIL.exe
+C:\GitHub\ProjetosCsharp\EOS-UTIL\EOS-UTIL\obj\Debug\EOS-UTIL.pdb
